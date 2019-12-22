@@ -1,6 +1,6 @@
 id=huawei_volte
 name=huawei_volte
-version=v1
-versionCode=1
+version=v10
+versionCode=10
 author=roypur
 description=Voice over LTE for huawei mate 10 pro (BLA-L29)
