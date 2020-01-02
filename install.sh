@@ -43,6 +43,7 @@ LATESTARTSERVICE=false
 # Construct your list in the following format
 # This is an example
 REPLACE="
+/system/media/audio/ui
 "
 
 
